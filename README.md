@@ -25,3 +25,10 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
+## Screenshot
+
+![WeatherScreen](./assets/images/)
+
+## Deployed page
+
+[View Published Page]()
