@@ -16,7 +16,7 @@
    and links. Includes utility class styles
 ************************************************/
 :root {
-   --bg-color-one: #6c0f89;
+   --bg-color-one: #d4afb9;
    --bg-color-two: #d1cfe2;
    --bg-color-three: #9cadce;
    --bg-color-four: #fffcd7;
@@ -36,8 +36,8 @@ body {
    position: relative;
 }
 .main-wrapper {
-   background: rgb(0, 0, 0);
-   background: linear-gradient(184deg, rgb(0, 0, 0) 0%, rgba(233,231,219,1) 48%, rgba(183,209,204,1) 100%);
+   background: rgb(151, 235, 244);
+   background: linear-gradient(184deg, rgba(244,162,151,1) 0%, rgba(233,231,219,1) 48%, rgba(183,209,204,1) 100%);
    display: flex;
    min-height: calc( 100vh - 30px)
 }
@@ -71,7 +71,7 @@ body {
    display: none;
 }
 .not-found {
-   color: #464ef1;
+   color: #f14668;
 }
 
 /************************************************
@@ -130,7 +130,7 @@ body {
 }
 .forecast-tile .danger {
    padding: 1em;
-   background-color: #fafafa;
+   background-color: #1a22b8;
 }
 @media screen and (min-width: 600px) {
    .forecast-tile {
