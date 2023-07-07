@@ -27,7 +27,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 ## Screenshot
 
-![WeatherScreen](./assets/images/)
+![WeatherScreen](./assets/images/final.png)
 
 ## Deployed page
 
